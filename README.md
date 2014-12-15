@@ -13,7 +13,7 @@ How to Run
 Notes
 
 -In the grafico.pde file, there are some examples. To run them, uncomment the desired
-example on the setup function and make sure the other examples as commented
+example on the setup function and make sure the other examples are commented
 
 -There is a python script to generate a log file. If you want generate another function,
 edit the "function(x)" and run the script
